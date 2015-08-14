@@ -1,5 +1,4 @@
 require "sinatra"
-require "pry"
 require_relative "class_match"
 require_relative "class_game"
 

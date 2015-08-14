@@ -1,5 +1,3 @@
-require 'pry'
-
 class Game
 
   attr_reader :player_choice, :computer_choice
